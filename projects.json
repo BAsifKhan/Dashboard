@@ -1,0 +1,27 @@
+{
+    "Dashboard 00":{
+        "project_name": "Dashboard 00",
+        "suites":[
+            {"projectId": 1,"suiteId":1, "comment":"Test Cases"}
+            
+        ],
+        "automated_jsonID": [2],
+        "manual_jsonID":[0]
+
+    },
+    "Dashboard 01":{
+        "project_name": "Dashboard 01",
+        "suites":[
+            {"projectId": 2,"suiteId":2, "comment":"Test Cases"}
+        ],
+        "automated_jsonID": [2],
+        "manual_jsonID":[0]
+
+    }
+
+
+
+
+
+
+}
